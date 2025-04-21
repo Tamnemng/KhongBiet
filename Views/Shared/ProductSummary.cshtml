@@ -8,7 +8,7 @@
 			</span>
 		</h4>
 	</div>
-	<form>
+	<form asp-action="AddToCart" asp-controller="Cart" method="post">
 		<input type="hidden" asp-for="ProductID" />
 		<input type="hidden" name="returnUrl" value="@ViewContext.HttpContext.Request.PathAndQuery()" />
 		<span class="card-text p-1">
@@ -19,4 +19,3 @@
 		</span>
 	</form>
 </div>
-

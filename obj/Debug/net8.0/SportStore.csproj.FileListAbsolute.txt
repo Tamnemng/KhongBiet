@@ -289,3 +289,4 @@ C:\Users\nguyn\Downloads\SportStoreCart\SportStore\SportStore\obj\Debug\net8.0\r
 C:\Users\nguyn\Downloads\SportStoreCart\SportStore\SportStore\obj\Debug\net8.0\SportStore.pdb
 C:\Users\nguyn\Downloads\SportStoreCart\SportStore\SportStore\obj\Debug\net8.0\SportStore.genruntimeconfig.cache
 C:\Users\nguyn\Downloads\SportStoreCart\SportStore\SportStore\obj\Debug\net8.0\ref\SportStore.dll
+C:\Users\nguyn\Downloads\SportStoreCart\SportStore\SportStore\obj\Debug\net8.0\SportStore.sourcelink.json
